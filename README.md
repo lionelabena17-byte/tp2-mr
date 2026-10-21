@@ -1,1 +1,1 @@
-# TP2-MR - Bob
+# TP2-MR - Alice & Bob
